@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/15-puzzle/static/css/main.e7b14318.chunk.css",
+    "main.js": "/15-puzzle/static/js/main.0ef28c35.chunk.js",
+    "main.js.map": "/15-puzzle/static/js/main.0ef28c35.chunk.js.map",
+    "runtime-main.js": "/15-puzzle/static/js/runtime-main.f26adddb.js",
+    "runtime-main.js.map": "/15-puzzle/static/js/runtime-main.f26adddb.js.map",
+    "static/js/2.b14b4ef3.chunk.js": "/15-puzzle/static/js/2.b14b4ef3.chunk.js",
+    "static/js/2.b14b4ef3.chunk.js.map": "/15-puzzle/static/js/2.b14b4ef3.chunk.js.map",
+    "index.html": "/15-puzzle/index.html",
+    "precache-manifest.7318306e904673a4f393f4be85df27c2.js": "/15-puzzle/precache-manifest.7318306e904673a4f393f4be85df27c2.js",
+    "service-worker.js": "/15-puzzle/service-worker.js",
+    "static/css/main.e7b14318.chunk.css.map": "/15-puzzle/static/css/main.e7b14318.chunk.css.map",
+    "static/js/2.b14b4ef3.chunk.js.LICENSE.txt": "/15-puzzle/static/js/2.b14b4ef3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/15-puzzle/static/media/bg1.3bb97edd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f26adddb.js",
+    "static/js/2.b14b4ef3.chunk.js",
+    "static/css/main.e7b14318.chunk.css",
+    "static/js/main.0ef28c35.chunk.js"
+  ]
+}
